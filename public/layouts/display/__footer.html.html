@@ -1,0 +1,103 @@
+<style>
+.footer {
+    background-color: #5a4a42;
+    color: white;
+    padding: 40px 0;
+}
+.footer a {
+    color: #f8f1e9;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.footer a:hover {
+    color: #ffd700;
+}
+.footer h5 {
+    color: #ffd700;
+    margin-bottom: 15px;
+}
+.footer .social-icons a {
+    font-size: 1.5rem;
+    margin: 0 10px;
+}
+.footer .map-container {
+    height: 200px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+</style>
+
+<!-- Le reste du contenu (navbar, hero, menu) reste identique -->
+
+<!-- Footer Expressif -->
+<footer id="contact" class="footer">
+<div class="container">
+    <div class="row">
+        <!-- Informations de Contact -->
+        <div class="col-md-3">
+            <h5>Le Petit Bistro</h5>
+            <p>123 Rue de la Gastronomie<br>
+               75001 Paris, France<br>
+               <i class="fas fa-phone"></i> 01 23 45 67 89<br>
+               <i class="fas fa-envelope"></i> <a href="mailto:contact@petitbistro.fr">contact@petitbistro.fr</a>
+            </p>
+        </div>
+
+        <!-- Liens Utiles -->
+        <div class="col-md-3">
+            <h5>Liens Utiles</h5>
+            <ul class="list-unstyled">
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#menu">Notre Menu</a></li>
+                <li><a href="#">Réservations</a></li>
+                <li><a href="#">À Propos</a></li>
+            </ul>
+        </div>
+
+        <!-- Réseaux Sociaux -->
+        <div class="col-md-3">
+            <h5>Suivez-nous</h5>
+            <div class="social-icons">
+                <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+                <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://pinterest.com" target="_blank"><i class="fab fa-pinterest"></i></a>
+            </div>
+        </div>
+
+        <!-- Google Maps -->
+        <div class="col-md-3">
+            <h5>Nous Trouver</h5>
+            <div class="map-container">
+                <iframe 
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.9916259158096!2d2.352221315674678!3d48.85661407928762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e2964e34e2d%3A0x8ddca9ee03a1a48!2sParis%2C%20France!5e0!3m2!1sfr!2sfr!4v1677654321897!5m2!1sfr!2sfr" 
+                    width="100%" 
+                    height="100%" 
+                    style="border:0;" 
+                    allowfullscreen="" 
+                    loading="lazy">
+                </iframe>
+            </div>
+        </div>
+    </div>
+    <!-- Copyright -->
+    <div class="text-center mt-4">
+        <p>&copy; 2025 Le Petit Bistro. Tous droits réservés.</p>
+    </div>
+</div>
+</footer>
+
+<!-- Scripts -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"></script>
+<script>
+// Smooth scroll (inchangé)
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+        });
+    });
+});
+</script>
