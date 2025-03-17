@@ -1,0 +1,220 @@
+{% extends layouts %}
+{% from charts import charts, echarts, xChart, scattedChart %}
+{% block content %}
+
+    <div class="container-fluid dashboard">
+        <div class="row">
+            <div class="col-lg-9 mb-9">
+                <div class="row">
+                    <div class="col-lg-6 mb-6">
+                        <div class="card menuUsers">
+                            <div class="card-body">
+                                <p class="card-text" id="count"><strong>0{{ data.userGroup()|length }}</strong></p>
+                            </div>
+                            <h4 class="card-header"><i class="bi bi-gear"></i> USERS GROUP</h4>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 mb-3">
+                        <div class="card menuUsers">
+                            <div class="card-body">
+                                <p class="card-text" id="count"><strong>{{ count.sqlCountAllUsers }}</strong></p>
+                            </div>
+                            <h4 class="card-header"><i class="bi bi-people"></i> USERS</h4>
+                        </div>
+                    </div> 
+                    <div class="col-lg-12 mb-15" id="dashChart">
+                        <canvas id="epaphroditeChart" style="width:100%;max-width:100%;height:400px;" align="center"></canvas>
+                    </div> 
+                    <div class="col-lg-6 mb-15" id="dashChart">
+                        <div id="epaphroditeEchartOne" style="width:100%;max-width:100%;height:400px;" align="center"></div>
+                    </div> 
+                    <div class="col-lg-6 mb-15" id="dashChart">
+                        <div id="epaphroditeEchartTwo" style="width:100%;max-width:100%;height:400px;" align="center"></div>
+                    </div> 
+                    <div class="col-lg-6 mb-15" id="dashChart">
+                        <canvas id="epaphroditeEchartThree" style="width:100%;max-width:100%;height:400px;" align="center"></canvas>
+                    </div> 
+                    <div class="col-lg-6 mb-15" id="dashChart">
+                        <div id="epaphroditeEchartFour" style="width:100%;max-width:100%;height:400px;" align="center"></div>
+                    </div> 
+                </div>
+            </div>
+            <div class="col-lg-3 mb-3">
+                <div class="row">
+                    <div class="col-lg-12 mb-12">
+                        <div class="card hystory">
+                            <div class="card-body">
+                                <h5 class="card-title">Recents actions</h5>
+                                {% for select in select.usersHistory() %}
+                                <div class="activity">
+                                    <div class="activity-item d-flex">
+                                        <div class="activite-label">{{ select.dates|e|dates('d/m/Y H:i:s') }}</div>
+                                        <i class='bi bi-clock activity-badge text-white align-self-start'></i>
+                                        <div class="activity-content">
+                                            {{ select.label|e }}
+                                        </div>
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 mb-12 mt-20">
+                        <div class="card infos">
+                            <h4 class="card-header"> <i class="icofont-comment"></i> INFORMATIONS</h4>
+                            <div class="card-body news-card">
+                                <div class="news">
+                                    <div class="post-item">
+                                        <i class="bi bi-exclamation-triangle-fill"></i>
+                                        <p>Welcome to Epaphrodite</p>
+                                    </div>                                                 
+                                </div>
+                            </div>
+                        </div>
+                    </div>               
+                    <div class="col-lg-12 mb-12">
+                        <div class="aos-init dashbordLogo" align="center" data-aos-offset="300">
+                            <img src="{{ __img('logo.png') }}" class="img-fluid">
+                            {{ __QRCodes('https://epaphrodite.org') }}
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    {{ charts(
+        {
+            id: 'epaphroditeChart',
+            orientation : 'vertical',
+            position : 'bottom',
+            pourcentage: 'true',
+            label: 'Epaphrodite Example Chart',
+            datasets: [
+                {
+                    chartType : 'pie',
+                    keyLabel : 'true',
+                    keys : [ 'title', 'title1', 'title2', 'title3' ],
+                    values : [ 'value', 'value1', 'value2', 'value3' ],
+                    data: [
+                        { "value" : 12969, "title" : "BLUE" },
+                        { "value1" : 3530, "title1" : "YELLOW" },
+                        { "value2" : 24593, "title2" : "GREEN" },
+                        { "value3" : 6465, "title3" : "PINK" }
+                    ],
+                    border: 0,
+                    radius : 0,
+                    borderColor: '#d32b01',
+                    color: ['#04a642', '#b2f4a7', '#FCC447', '#dc143c']
+                }
+            ]
+        } 
+    ) }} 
+
+    {{ echarts(
+        {
+            id: "epaphroditeEchartOne",
+            label: "Sample EChart pie",
+            pourcentage: 'true',
+            orientation: "vertical",
+            position: "bottom",
+            datasets: [
+                {
+                    chartType : 'pie',
+                    keyLabel : 'false',
+                    keys : [ 'title', 'title1', 'title2', 'title3' ],
+                    values : [ 'value', 'value1', 'value2', 'value3' ],
+                    data: [
+                        { "value" : 12969, "title" : "BLUE" },
+                        { "value1" : 3530, "title1" : "YELLOW" },
+                        { "value2" : 24593, "title2" : "GREEN" },
+                        { "value3" : 6465, "title3" : "PINK" }
+                    ],
+                    color: ['#04a642', '#b2f4a7', '#FCC447', '#dc143c'],
+                }
+            ]
+        }
+    ) }}
+
+    {{ echarts(
+        {
+            id: "epaphroditeEchartTwo",
+            label: "Sample EChart daughnut",
+            pourcentage: 'true',
+            orientation: "vertical",
+            position: "bottom",
+            datasets: [
+                {
+                    chartType : 'doughnut',
+                    keyLabel : 'true',
+                    keys : [ 'title', 'title1', 'title2', 'title3' ],
+                    values : [ 'value', 'value1', 'value2', 'value3' ],
+                    data: [
+                        { "value" : 12969, "title" : "BLUE" },
+                        { "value1" : 3530, "title1" : "YELLOW" },
+                        { "value2" : 24593, "title2" : "GREEN" },
+                        { "value3" : 6465, "title3" : "PINK" }
+                    ],
+                    color: ['#04a642', '#b2f4a7', '#FCC447', '#dc143c'],
+                }
+            ]
+        }
+    ) }}
+
+    {{ xChart(
+        {
+            id: "epaphroditeEchartThree",
+            label: "Sample xChart",
+            pourcentage: 'true',
+            orientation: "vertical",
+            position: "right",
+            useLegende : "true",
+            datasets: [
+                {
+                    chartType : 'bar',
+                    keys : [ 'title' ],
+                    values : [ 'value'],
+                    data: [
+                        { "value" : 12969, "title" : "BLUE" },
+                        { "value" : 3530, "title" : "YELLOW" },
+                        { "value" : 24593, "title" : "GREEN" },
+                        { "value" : 6465, "title" : "PINK" }
+                    ],
+                    color: ['#dc143c', '#b2f4a7', '#FCC447', '#8e44ad'],
+                    borderColors : '#dc143c',
+                    raduis : 0.5
+                }
+            ]
+        }
+    ) }}
+    
+    {{ scattedChart({
+        id: "epaphroditeEchartFour",
+        position: 'bottom',
+        pourcentage: 'true',
+        label: "Sample scattedChart",
+        orientation: 'vertical',
+        keyLabel : 'false',
+        datasets: 
+            [
+                {
+                    keys : ['titre', 'titre2'],
+                    values : [ 'direct', 'mail', 'affiliate' ],
+                    data: [
+                        { 'direct': 320, 'mail': 220, 'affiliate': 220, 'Video': 150, 'search': 820 , 'titre': 'Monday' },
+                        { 'direct': 250, 'mail': 210, 'affiliate': 190, 'Video': 190, 'search': 710 , 'titre': 'Tuesday' },
+                    ],
+                    color: ['#3398DB', '#FF6F61', '#F39C12', '#2ECC71', '#8E44AD']
+                },
+                {
+                    keys : ['titre', 'titre2'],
+                    values : [ 'direct', 'mail', 'affiliate' ],
+                    data: [
+                        { 'direct': 550, 'mail': 240, 'affiliate': 240, 'Video': 180, 'search': 940 , 'titre': 'Monday' },
+                        { 'direct': 401, 'mail': 220, 'affiliate': 230, 'Video': 210, 'search': 830 , 'titre': 'Tuesday' }
+                    ],
+                    color: ['#3398DB', '#FF6F61', '#F39C12', '#2ECC71', '#8E44AD']
+                }
+            ]
+    }) }}
+    
+{% endblock %}
