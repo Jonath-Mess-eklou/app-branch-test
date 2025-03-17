@@ -239,3 +239,48 @@
 [Mon Mar 17 14:49:21 2025] 127.0.0.1:33768 Accepted
 [Mon Mar 17 14:49:26 2025] 127.0.0.1:33768 Closed without sending a request; it was probably just an unused speculative preconnection
 [Mon Mar 17 14:49:26 2025] 127.0.0.1:33768 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55892 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55892 [200]: GET /
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55892 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55900 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55900 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55900 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55912 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55912 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55912 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55918 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55918 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55918 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55928 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55928 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55928 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55936 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55946 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55936 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55936 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55946 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55956 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55946 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55956 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55956 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55960 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55960 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55972 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55980 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55960 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55972 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55972 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55994 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55980 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55980 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55994 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:55994 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56008 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56008 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56008 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56020 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56020 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56020 Closing
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56024 Accepted
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56024 [200]: GET /static/img/logo.png
+[Mon Mar 17 14:51:12 2025] 127.0.0.1:56024 Closing
