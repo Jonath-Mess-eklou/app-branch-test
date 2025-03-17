@@ -1,0 +1,2116 @@
+[Mon Mar 17 13:55:52 2025] PHP 8.3.16 Development Server (http://127.0.0.1:8001) started
+[Mon Mar 17 13:55:55 2025] 127.0.0.1:57770 Accepted
+[Mon Mar 17 13:55:55 2025] 127.0.0.1:57771 Accepted
+[Mon Mar 17 13:55:55 2025] 127.0.0.1:57771 [200]: GET /
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57771 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57775 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57770 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57770 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57776 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57775 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57777 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57776 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57778 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57777 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57779 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57778 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57780 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57779 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57775 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57776 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57780 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57777 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57778 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57779 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57780 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57781 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57782 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57781 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57782 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57781 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57782 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57783 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57784 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57783 [200]: GET /static/img/logo.png
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57783 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57784 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57784 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57786 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57786 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57786 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57787 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57787 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57787 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57788 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57788 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57788 Closing
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57789 Accepted
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57789 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:55:56 2025] 127.0.0.1:57789 Closing
+[Mon Mar 17 13:55:57 2025] 127.0.0.1:57790 Accepted
+[Mon Mar 17 13:55:57 2025] 127.0.0.1:57790 [200]: GET /static/icofont/fonts/icofont.woff2
+[Mon Mar 17 13:55:57 2025] 127.0.0.1:57790 Closing
+[Mon Mar 17 13:55:58 2025] 127.0.0.1:57792 Accepted
+[Mon Mar 17 13:55:58 2025] 127.0.0.1:57792 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 13:55:58 2025] 127.0.0.1:57792 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57798 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57799 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57798 [200]: GET /view/login/
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57798 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57799 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57799 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57801 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57802 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57803 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57804 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57805 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57801 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57802 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57803 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57804 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57805 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57801 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57802 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57803 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57804 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57805 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57806 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57807 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57806 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57807 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57806 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57807 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57808 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57808 [200]: GET /static/img/secure.svg
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57808 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57809 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57809 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57809 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57810 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57810 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57810 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57811 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57811 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57811 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57812 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57812 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57812 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57813 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57813 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57813 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57814 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57814 [200]: GET /static/bootstrap-icons/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57814 Closing
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57815 Accepted
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57815 [200]: GET /static/icofont/fonts/icofont.woff2
+[Mon Mar 17 13:56:06 2025] 127.0.0.1:57815 Closing
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57816 Accepted
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57817 Accepted
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57816 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57817 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57816 Closing
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57817 Closing
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57818 Accepted
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57818 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57818 Closing
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57819 Accepted
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57819 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57819 Closing
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57820 Accepted
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57820 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57820 Closing
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57821 Accepted
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57821 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57821 Closing
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57822 Accepted
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57822 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:07 2025] 127.0.0.1:57822 Closing
+[Mon Mar 17 13:56:16 2025] 127.0.0.1:57827 Accepted
+[Mon Mar 17 13:56:16 2025] 127.0.0.1:57828 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57827 [200]: POST /view/login/
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57827 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57830 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57828 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57831 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57828 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57832 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57833 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57834 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57830 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57831 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57832 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57833 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57834 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57830 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57831 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57832 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57833 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57834 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57835 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57836 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57835 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57835 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57836 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57836 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57837 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57838 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57837 [200]: GET /static/img/secure.svg
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57838 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57837 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57838 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57839 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57839 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57839 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57840 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57840 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57840 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57841 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57841 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57841 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57842 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57842 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57842 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57843 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57843 [200]: GET /static/bootstrap-icons/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57843 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57844 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57844 [200]: GET /static/icofont/fonts/icofont.woff2
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57844 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57845 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57845 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57845 Closing
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57846 Accepted
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57846 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:17 2025] 127.0.0.1:57846 Closing
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57847 Accepted
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57847 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57847 Closing
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57848 Accepted
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57848 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57848 Closing
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57849 Accepted
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57849 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57849 Closing
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57850 Accepted
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57850 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57850 Closing
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57851 Accepted
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57851 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:18 2025] 127.0.0.1:57851 Closing
+[Mon Mar 17 13:56:25 2025] 127.0.0.1:57856 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57856 [302]: POST /view/login/
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57856 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57857 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57857 [200]: GET /dashboard/
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57857 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57859 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57859 [200]: GET /static/css/bootstrap/aos.css
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57859 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57860 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57860 [200]: GET /static/css/select2.min.css
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57860 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57861 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57861 [200]: GET /static/css/default/default.main.admin.style.css
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57861 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57862 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57863 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57864 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57862 [200]: GET /static/js/select2.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57863 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57864 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57862 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57865 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57863 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57864 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57865 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57865 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57866 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57867 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57866 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57867 [200]: GET /static/js/chart/default.echarts.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57866 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57867 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57868 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57869 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57868 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57870 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57869 [200]: GET /static/js/chart/default.plugin.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57870 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57868 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57871 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57869 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57872 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57870 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57871 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57872 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57871 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57872 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57873 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57873 [200]: GET /static/img/avatar.png
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57873 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57874 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57874 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57874 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57875 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57875 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57875 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57876 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57876 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57876 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57877 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57877 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57877 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57878 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57878 [200]: GET /static/js/bootstrap/aos.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57878 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57879 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57879 [200]: GET /static/js/datatable/jquery.dataTables.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57880 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57880 [200]: GET /static/js/datatable/dataTables.bootstrap4.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57879 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57880 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57881 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57881 [200]: GET /static/js/datatable/dataTables.buttons.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57882 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57882 [200]: GET /static/js/datatable/buttons.html5.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57881 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57882 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57883 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57883 [200]: GET /static/js/datatable/pdfmake.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57884 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57884 [200]: GET /static/js/datatable/jszip.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57884 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57883 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57885 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57885 [200]: GET /static/js/datatable/vfs_fonts.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57885 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57886 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57886 [200]: GET /static/bootstrap-icons/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57886 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57888 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57888 [200]: GET /static/js/select2.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57888 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57889 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57889 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57889 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57890 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57890 [200]: GET /static/js/chart/default.plugin.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57890 Closing
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57891 Accepted
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57891 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:26 2025] 127.0.0.1:57891 Closing
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57892 Accepted
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57892 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57892 Closing
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57893 Accepted
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57893 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57893 Closing
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57894 Accepted
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57894 [200]: GET /static/js/chart/default.echarts.min.js
+[Mon Mar 17 13:56:27 2025] 127.0.0.1:57894 Closing
+[Mon Mar 17 13:56:28 2025] 127.0.0.1:57895 Accepted
+[Mon Mar 17 13:56:28 2025] 127.0.0.1:57895 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:28 2025] 127.0.0.1:57895 Closing
+[Mon Mar 17 13:56:28 2025] 127.0.0.1:57896 Accepted
+[Mon Mar 17 13:56:28 2025] 127.0.0.1:57896 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:28 2025] 127.0.0.1:57896 Closing
+[Mon Mar 17 13:56:29 2025] 127.0.0.1:57898 Accepted
+[Mon Mar 17 13:56:29 2025] 127.0.0.1:57898 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:29 2025] 127.0.0.1:57898 Closing
+[Mon Mar 17 13:56:30 2025] 127.0.0.1:57900 Accepted
+[Mon Mar 17 13:56:30 2025] 127.0.0.1:57900 [200]: GET /static/js/bootstrap/aos.js
+[Mon Mar 17 13:56:30 2025] 127.0.0.1:57900 Closing
+[Mon Mar 17 13:56:31 2025] 127.0.0.1:57901 Accepted
+[Mon Mar 17 13:56:41 2025] 127.0.0.1:57908 Accepted
+[Mon Mar 17 13:56:41 2025] 127.0.0.1:57901 [302]: POST /dashboard/
+[Mon Mar 17 13:56:41 2025] 127.0.0.1:57901 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57908 [200]: GET /dashboard/
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57908 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57909 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57909 [200]: GET /static/css/bootstrap/aos.css
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57909 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57910 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57911 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57912 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57913 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57914 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57915 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57910 [200]: GET /static/css/select2.min.css
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57911 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57912 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57913 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57914 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57915 [200]: GET /static/css/default/default.main.admin.style.css
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57910 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57912 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57911 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57913 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57914 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57915 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57916 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57916 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57916 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57917 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57917 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57917 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57918 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57919 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57920 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57921 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57918 [200]: GET /static/js/select2.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57919 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57920 [200]: GET /static/js/chart/default.echarts.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57921 [200]: GET /static/js/chart/default.plugin.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57918 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57921 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57919 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57920 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57922 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57923 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57924 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57924 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57922 [200]: GET /static/img/logo.png
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57923 [200]: GET /static/img/avatar.png
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57924 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57922 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57923 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57925 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57926 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57925 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57926 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57925 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57926 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57927 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57927 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57927 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57928 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57928 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57928 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57929 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57929 [200]: GET /static/js/bootstrap/aos.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57929 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57930 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57930 [200]: GET /static/js/datatable/jquery.dataTables.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57930 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57931 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57931 [200]: GET /static/js/datatable/dataTables.bootstrap4.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57931 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57932 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57933 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57932 [200]: GET /static/js/datatable/dataTables.buttons.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57933 [200]: GET /static/js/datatable/buttons.html5.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57932 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57933 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57934 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57935 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57934 [200]: GET /static/js/datatable/pdfmake.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57935 [200]: GET /static/js/datatable/jszip.min.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57935 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57934 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57936 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57936 [200]: GET /static/js/datatable/vfs_fonts.js
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57936 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57937 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57938 Accepted
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57937 [200]: GET /static/bootstrap-icons/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57938 [200]: GET /static/icofont/fonts/icofont.woff2
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57937 Closing
+[Mon Mar 17 13:56:42 2025] 127.0.0.1:57938 Closing
+[Mon Mar 17 13:56:49 2025] 127.0.0.1:57944 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57946 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57944 [200]: GET /logout/
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57944 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57946 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57946 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57947 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57948 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57949 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57950 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57951 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57947 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57948 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57949 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57950 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57951 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57952 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57947 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57952 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57948 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57949 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57950 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57951 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57952 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57953 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57953 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57953 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57954 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57955 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57956 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57954 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57955 [200]: GET /static/img/secure.svg
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57956 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57954 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57955 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57956 Closing
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57957 Accepted
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57957 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:52 2025] 127.0.0.1:57957 Closing
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57958 Accepted
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57958 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57958 Closing
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57959 Accepted
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57959 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57959 Closing
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57960 Accepted
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57961 Accepted
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57961 [200]: GET /static/bootstrap-icons/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57960 [200]: GET /static/icofont/fonts/icofont.woff2
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57961 Closing
+[Mon Mar 17 13:56:53 2025] 127.0.0.1:57960 Closing
+[Mon Mar 17 13:56:55 2025] 127.0.0.1:57965 Accepted
+[Mon Mar 17 13:56:55 2025] 127.0.0.1:57966 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57965 [200]: GET /
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57965 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57966 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57966 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57969 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57969 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57969 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57970 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57971 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57972 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57973 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57970 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57971 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57972 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57973 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57970 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57971 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57972 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57974 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57973 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57975 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57974 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57975 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57974 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57975 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57976 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57977 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57976 [200]: GET /static/img/logo.png
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57976 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57977 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57977 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57978 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57979 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57978 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57979 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57978 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57979 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57980 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57980 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57980 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57981 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57981 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57981 Closing
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57982 Accepted
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57982 [200]: GET /static/icofont/fonts/icofont.woff2
+[Mon Mar 17 13:56:56 2025] 127.0.0.1:57982 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:57997 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:57998 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:57997 [200]: GET /
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:57997 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:57998 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:57998 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58000 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58000 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58000 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58001 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58001 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58001 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58002 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58002 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58003 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58003 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58002 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58004 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58003 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58004 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58004 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58005 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58006 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58007 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58008 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58009 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58005 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58010 Accepted
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58005 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58006 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58007 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58008 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58009 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58010 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58006 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58007 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58008 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58009 Closing
+[Mon Mar 17 13:57:07 2025] 127.0.0.1:58010 Closing
+[Mon Mar 17 13:57:08 2025] 127.0.0.1:58011 Accepted
+[Mon Mar 17 13:57:08 2025] 127.0.0.1:58011 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:57:08 2025] 127.0.0.1:58011 Closing
+[Mon Mar 17 13:57:08 2025] 127.0.0.1:58012 Accepted
+[Mon Mar 17 13:57:08 2025] 127.0.0.1:58012 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 13:57:08 2025] 127.0.0.1:58012 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58142 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58143 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58142 [200]: GET /
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58142 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58143 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58143 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58146 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58146 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58146 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58147 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58148 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58149 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58150 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58147 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58148 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58149 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58150 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58147 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58148 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58149 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58150 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58151 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58151 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58151 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58152 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58152 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58152 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58153 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58153 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58153 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58154 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58154 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58155 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58154 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58156 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58155 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58156 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58157 Accepted
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58155 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58156 Closing
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58157 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 13:59:09 2025] 127.0.0.1:58157 Closing
+[Mon Mar 17 13:59:10 2025] 127.0.0.1:58159 Accepted
+[Mon Mar 17 13:59:10 2025] 127.0.0.1:58159 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 13:59:10 2025] 127.0.0.1:58159 Closing
+[Mon Mar 17 14:03:05 2025] 127.0.0.1:58413 Accepted
+[Mon Mar 17 14:03:05 2025] 127.0.0.1:58414 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58413 [200]: GET /
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58413 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58415 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58414 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58416 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58417 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58414 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58418 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58419 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58415 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58416 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58417 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58419 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58418 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58415 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58416 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58417 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58419 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58418 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58420 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58421 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58420 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58421 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58420 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58421 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58422 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58422 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58422 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58423 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58423 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58423 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58424 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58424 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58424 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58425 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58425 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58425 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58426 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58426 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58426 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58427 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58427 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58427 Closing
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58429 Accepted
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58429 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:03:06 2025] 127.0.0.1:58429 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58710 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58711 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58710 [200]: GET /
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58710 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58711 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58711 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58713 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58714 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58715 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58716 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58717 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58713 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58714 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58715 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58716 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58717 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58713 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58714 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58715 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58716 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58717 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58718 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58719 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58718 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58719 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58718 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58719 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58720 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58720 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58720 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58721 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58721 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58721 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58722 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58722 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58722 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58723 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58723 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58723 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58724 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58724 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58725 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58725 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58724 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58725 Closing
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58726 Accepted
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58726 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:06:10 2025] 127.0.0.1:58726 Closing
+[Mon Mar 17 14:06:11 2025] 127.0.0.1:58727 Accepted
+[Mon Mar 17 14:06:11 2025] 127.0.0.1:58727 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:06:11 2025] 127.0.0.1:58727 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58829 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58830 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58830 [200]: GET /
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58830 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58829 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58829 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58832 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58833 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58834 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58832 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58833 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58834 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58832 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58833 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58834 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58835 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58835 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58835 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58836 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58836 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58836 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58837 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58837 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58837 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58838 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58838 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58838 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58839 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58840 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58839 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58840 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58839 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58840 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58841 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58842 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58841 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58842 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58841 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58842 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58843 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58843 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58843 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58844 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58844 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58844 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58845 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58845 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58845 Closing
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58846 Accepted
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58846 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:07:37 2025] 127.0.0.1:58846 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58958 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58959 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58958 [200]: GET /
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58958 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58959 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58959 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58960 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58961 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58962 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58963 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58964 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58960 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58961 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58962 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58963 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58964 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58960 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58961 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58962 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58963 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58964 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58965 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58965 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58965 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58966 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58966 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58966 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58967 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58968 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58967 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58968 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58967 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58968 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58969 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58969 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58969 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58970 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58970 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58970 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58971 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58972 Accepted
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58972 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58971 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58972 Closing
+[Mon Mar 17 14:08:42 2025] 127.0.0.1:58971 Closing
+[Mon Mar 17 14:08:43 2025] 127.0.0.1:58973 Accepted
+[Mon Mar 17 14:08:43 2025] 127.0.0.1:58973 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:08:43 2025] 127.0.0.1:58973 Closing
+[Mon Mar 17 14:08:43 2025] 127.0.0.1:58974 Accepted
+[Mon Mar 17 14:08:43 2025] 127.0.0.1:58974 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:08:43 2025] 127.0.0.1:58974 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59023 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59024 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59024 [200]: GET /
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59024 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59025 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59023 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59026 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59023 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59027 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59028 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59029 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59025 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59026 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59027 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59028 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59029 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59025 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59026 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59027 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59028 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59029 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59030 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59030 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59030 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59031 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59031 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59031 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59032 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59033 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59032 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59033 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59032 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59033 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59034 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59034 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59034 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59035 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59036 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59035 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59036 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59035 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59036 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59038 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59038 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59038 Closing
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59039 Accepted
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59039 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:09:16 2025] 127.0.0.1:59039 Closing
+[Mon Mar 17 14:09:17 2025] 127.0.0.1:59040 Accepted
+[Mon Mar 17 14:09:17 2025] 127.0.0.1:59040 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:09:17 2025] 127.0.0.1:59040 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59058 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59059 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59058 [200]: GET /
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59058 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59059 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59059 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59060 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59061 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59062 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59063 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59064 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59060 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59061 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59062 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59065 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59063 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59064 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59065 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59060 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59061 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59062 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59063 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59064 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59065 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59066 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59066 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59066 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59067 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59068 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59067 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59068 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59067 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59068 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59069 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59069 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59070 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59069 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59071 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59070 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59071 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59070 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59071 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59072 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59073 Accepted
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59072 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59072 Closing
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59073 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:09:46 2025] 127.0.0.1:59073 Closing
+[Mon Mar 17 14:09:47 2025] 127.0.0.1:59074 Accepted
+[Mon Mar 17 14:09:47 2025] 127.0.0.1:59074 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:09:47 2025] 127.0.0.1:59074 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59105 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59106 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59106 [200]: GET /
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59106 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59105 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59105 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59107 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59108 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59109 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59110 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59111 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59107 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59108 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59109 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59110 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59111 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59107 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59108 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59109 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59110 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59111 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59112 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59112 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59112 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59113 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59113 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59113 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59114 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59115 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59114 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59115 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59114 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59115 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59116 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59116 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59116 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59117 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59117 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59117 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59118 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59118 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59118 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59119 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59119 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59119 Closing
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59120 Accepted
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59120 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:10:22 2025] 127.0.0.1:59120 Closing
+[Mon Mar 17 14:10:23 2025] 127.0.0.1:59121 Accepted
+[Mon Mar 17 14:10:23 2025] 127.0.0.1:59121 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:10:23 2025] 127.0.0.1:59121 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59134 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59135 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59134 [200]: GET /
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59134 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59135 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59135 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59136 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59137 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59138 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59139 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59140 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59136 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59137 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59138 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59139 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59140 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59136 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59137 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59138 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59139 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59140 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59141 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59142 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59141 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59142 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59141 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59142 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59143 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59143 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59143 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59144 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59144 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59144 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59145 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59145 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59146 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59145 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59147 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59146 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59147 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59146 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59147 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59148 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59148 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59148 Closing
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59149 Accepted
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59149 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:10:46 2025] 127.0.0.1:59149 Closing
+[Mon Mar 17 14:10:47 2025] 127.0.0.1:59150 Accepted
+[Mon Mar 17 14:10:47 2025] 127.0.0.1:59150 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:10:47 2025] 127.0.0.1:59150 Closing
+[Mon Mar 17 14:11:36 2025] 127.0.0.1:59198 Accepted
+[Mon Mar 17 14:11:36 2025] 127.0.0.1:59199 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59199 [200]: GET /
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59199 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59198 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59198 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59200 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59200 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59200 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59201 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59202 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59203 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59204 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59201 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59202 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59203 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59204 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59201 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59202 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59203 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59204 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59205 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59205 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59205 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59206 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59206 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59206 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59207 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59207 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59207 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59208 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59208 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59208 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59209 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59209 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59209 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59210 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59211 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59210 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59211 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59210 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59211 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59213 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59213 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59213 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59214 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59214 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59214 Closing
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59215 Accepted
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59215 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:11:37 2025] 127.0.0.1:59215 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59218 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59219 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59218 [200]: GET /
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59218 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59219 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59219 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59220 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59220 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59220 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59221 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59222 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59223 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59224 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59221 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59222 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59223 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59224 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59221 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59222 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59223 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59224 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59225 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59225 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59225 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59226 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59226 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59226 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59227 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59228 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59227 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59228 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59227 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59228 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59229 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59229 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59229 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59230 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59230 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59230 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59231 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59231 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59231 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59232 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59232 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59232 Closing
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59233 Accepted
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59233 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:11:40 2025] 127.0.0.1:59233 Closing
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59234 Accepted
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59234 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59234 Closing
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59235 Accepted
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59236 Accepted
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59235 [200]: GET /
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59235 Closing
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59236 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59236 Closing
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59238 Accepted
+[Mon Mar 17 14:11:41 2025] 127.0.0.1:59239 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59240 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59241 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59242 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59238 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59239 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59240 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59241 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59242 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59243 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59238 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59243 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59239 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59240 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59241 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59242 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59243 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59244 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59244 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59244 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59245 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59246 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59245 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59246 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59245 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59246 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59247 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59247 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59247 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59248 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59248 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59249 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59248 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59249 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59249 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59250 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59250 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59250 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59251 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59251 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59251 Closing
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59252 Accepted
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59252 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:11:42 2025] 127.0.0.1:59252 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59282 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59283 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59283 [200]: GET /
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59283 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59282 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59282 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59285 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59286 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59287 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59288 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59289 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59285 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59286 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59287 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59288 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59289 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59285 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59286 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59287 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59288 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59289 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59290 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59290 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59290 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59291 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59291 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59291 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59292 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59293 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59292 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59293 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59292 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59293 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59294 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59294 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59294 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59295 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59296 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59295 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59296 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59295 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59296 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59297 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59297 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59297 Closing
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59298 Accepted
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59298 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:12:03 2025] 127.0.0.1:59298 Closing
+[Mon Mar 17 14:12:04 2025] 127.0.0.1:59299 Accepted
+[Mon Mar 17 14:12:04 2025] 127.0.0.1:59299 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:12:04 2025] 127.0.0.1:59299 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59334 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59335 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59334 [200]: GET /
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59334 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59335 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59335 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59336 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59337 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59336 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59337 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59336 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59337 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59338 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59338 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59339 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59338 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59339 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59339 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59340 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59340 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59340 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59341 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59341 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59341 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59342 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59342 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59342 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59343 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59343 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59343 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59344 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59344 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59344 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59345 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59346 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59347 Accepted
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59345 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59346 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59347 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59345 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59346 Closing
+[Mon Mar 17 14:12:24 2025] 127.0.0.1:59347 Closing
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59348 Accepted
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59349 Accepted
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59349 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59348 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59349 Closing
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59348 Closing
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59350 Accepted
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59350 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:12:25 2025] 127.0.0.1:59350 Closing
+[Mon Mar 17 14:17:38 2025] 127.0.0.1:59625 Accepted
+[Mon Mar 17 14:17:42 2025] 127.0.0.1:59625 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Mar 17 14:17:42 2025] 127.0.0.1:59625 Closing
+[Mon Mar 17 14:19:52 2025] 127.0.0.1:59766 Accepted
+[Mon Mar 17 14:19:52 2025] 127.0.0.1:59767 Accepted
+[Mon Mar 17 14:19:52 2025] 127.0.0.1:59767 [200]: GET /
+[Mon Mar 17 14:19:52 2025] 127.0.0.1:59767 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59766 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59768 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59769 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59768 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59770 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59769 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59771 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59770 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59766 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59772 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59771 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59768 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59773 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59772 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59769 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59770 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59774 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59771 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59773 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59772 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59774 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59773 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59774 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59775 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59775 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59775 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59776 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59776 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59776 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59777 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59777 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59777 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59778 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59778 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59778 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59779 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59780 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59781 Accepted
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59779 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59780 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59781 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59779 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59780 Closing
+[Mon Mar 17 14:19:53 2025] 127.0.0.1:59781 Closing
+[Mon Mar 17 14:19:55 2025] 127.0.0.1:59783 Accepted
+[Mon Mar 17 14:19:55 2025] 127.0.0.1:59783 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:19:55 2025] 127.0.0.1:59783 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59886 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59887 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59886 [200]: GET /
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59886 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59887 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59887 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59888 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59888 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59888 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59889 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59889 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59889 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59890 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59891 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59892 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59890 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59891 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59892 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59890 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59891 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59892 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59893 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59894 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59893 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59894 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59893 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59894 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59895 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59895 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59895 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59896 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59896 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59896 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59897 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59897 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59897 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59898 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59899 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59900 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59901 Accepted
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59898 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59899 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59900 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59901 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59898 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59899 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59900 Closing
+[Mon Mar 17 14:21:06 2025] 127.0.0.1:59901 Closing
+[Mon Mar 17 14:21:07 2025] 127.0.0.1:59903 Accepted
+[Mon Mar 17 14:21:07 2025] 127.0.0.1:59903 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:21:07 2025] 127.0.0.1:59903 Closing
+[Mon Mar 17 14:21:49 2025] 127.0.0.1:59937 Accepted
+[Mon Mar 17 14:21:49 2025] 127.0.0.1:59938 Accepted
+[Mon Mar 17 14:21:49 2025] 127.0.0.1:59938 [200]: GET /
+[Mon Mar 17 14:21:49 2025] 127.0.0.1:59938 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59937 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59937 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59939 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59940 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59941 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59942 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59943 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59939 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59940 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59941 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59942 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59943 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59939 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59940 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59941 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59942 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59943 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59944 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59945 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59944 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59945 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59944 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59945 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59946 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59947 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59948 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59946 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59946 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59948 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59948 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59947 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59947 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59949 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59950 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59951 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59952 Accepted
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59952 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59950 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59951 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59949 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59952 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59950 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59951 Closing
+[Mon Mar 17 14:21:50 2025] 127.0.0.1:59949 Closing
+[Mon Mar 17 14:21:51 2025] 127.0.0.1:59955 Accepted
+[Mon Mar 17 14:21:51 2025] 127.0.0.1:59955 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:21:51 2025] 127.0.0.1:59955 Closing
+[Mon Mar 17 14:27:28 2025] 127.0.0.1:60238 Accepted
+[Mon Mar 17 14:27:28 2025] 127.0.0.1:60239 Accepted
+[Mon Mar 17 14:27:28 2025] 127.0.0.1:60238 [200]: GET /
+[Mon Mar 17 14:27:28 2025] 127.0.0.1:60238 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60239 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60239 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60242 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60242 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60243 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60242 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60243 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60244 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60244 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60243 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60245 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60245 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60244 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60246 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60246 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60245 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60246 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60247 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60248 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60247 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60248 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60247 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60248 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60249 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60250 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60249 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60250 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60249 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60250 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60251 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60252 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60252 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60251 [200]: GET /static/img/m1.png
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60253 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60252 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60253 [200]: GET /static/img/m2.png
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60251 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60253 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60254 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60254 [200]: GET /static/img/m3.png
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60254 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60255 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60255 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60255 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60256 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60257 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60258 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60259 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60260 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60261 Accepted
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60256 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60257 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60258 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60259 [200]: GET /static/img/m4.png
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60260 [200]: GET /static/img/m5.png
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60261 [200]: GET /static/img/m6.png
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60256 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60257 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60258 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60259 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60261 Closing
+[Mon Mar 17 14:27:29 2025] 127.0.0.1:60260 Closing
+[Mon Mar 17 14:27:30 2025] 127.0.0.1:60262 Accepted
+[Mon Mar 17 14:27:30 2025] 127.0.0.1:60262 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:27:30 2025] 127.0.0.1:60262 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60432 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60433 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60432 [200]: GET /
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60432 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60433 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60433 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60434 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60434 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60434 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60435 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60435 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60435 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60436 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60436 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60437 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60436 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60437 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60437 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60438 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60438 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60438 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60439 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60440 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60440 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60439 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60440 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60439 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60441 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60442 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60441 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60441 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60442 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60442 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60443 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60443 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60443 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60444 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60445 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60445 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60444 [200]: GET /static/img/m2.png
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60444 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60445 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60446 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60446 [200]: GET /static/img/m3.png
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60446 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60447 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60448 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60449 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60450 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60450 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60450 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60449 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60447 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60448 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60449 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60447 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60448 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60451 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60452 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60453 Accepted
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60452 [200]: GET /static/img/m4.png
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60451 [200]: GET /static/img/m5.png
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60453 [200]: GET /static/img/m6.png
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60452 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60453 Closing
+[Mon Mar 17 14:29:59 2025] 127.0.0.1:60451 Closing
+[Mon Mar 17 14:30:01 2025] 127.0.0.1:60455 Accepted
+[Mon Mar 17 14:30:01 2025] 127.0.0.1:60455 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:30:01 2025] 127.0.0.1:60455 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60662 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60663 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60662 [200]: GET /
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60662 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60664 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60665 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60663 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60664 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60665 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60663 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60664 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60665 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60666 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60667 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60668 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60666 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60666 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60667 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60667 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60668 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60668 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60669 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60670 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60669 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60670 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60669 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60670 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60671 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60671 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60671 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60672 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60672 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60672 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60673 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60673 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60673 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60674 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60674 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60675 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60675 [200]: GET /static/img/m2.jpg
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60675 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60674 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60676 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60677 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60678 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60679 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60679 [200]: GET /static/img/m3.jpg
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60678 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60677 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60676 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60678 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60677 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60676 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60680 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60680 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60680 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60679 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60681 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60681 [200]: GET /static/img/m4.jpg
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60681 Closing
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60682 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60682 [200]: GET /static/img/m5.jpg
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60683 Accepted
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60683 [200]: GET /static/img/m6.jpg
+[Mon Mar 17 14:32:57 2025] 127.0.0.1:60683 Closing
+[Mon Mar 17 14:32:58 2025] 127.0.0.1:60682 Closing
+[Mon Mar 17 14:32:59 2025] 127.0.0.1:60686 Accepted
+[Mon Mar 17 14:32:59 2025] 127.0.0.1:60686 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:32:59 2025] 127.0.0.1:60686 Closing
+[Mon Mar 17 14:34:59 2025] 127.0.0.1:60779 Accepted
+[Mon Mar 17 14:34:59 2025] 127.0.0.1:60780 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60780 [200]: GET /
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60780 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60779 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60781 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60781 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60779 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60782 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60782 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60781 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60782 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60783 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60783 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60784 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60783 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60784 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60784 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60785 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60785 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60785 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60786 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60786 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60786 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60787 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60787 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60787 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60788 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60789 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60788 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60789 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60788 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60789 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60790 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60790 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60790 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60791 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60791 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60792 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60792 [200]: GET /static/img/m2.jpg
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60792 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60791 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60793 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60793 [200]: GET /static/img/m3.jpg
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60794 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60795 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60796 Accepted
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60794 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60795 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60796 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60794 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60795 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60796 Closing
+[Mon Mar 17 14:35:00 2025] 127.0.0.1:60793 Closing
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60797 Accepted
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60797 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60798 Accepted
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60797 Closing
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60799 Accepted
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60798 [200]: GET /static/img/m4.jpg
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60799 [200]: GET /static/img/m5.jpg
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60798 Closing
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60800 Accepted
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60800 [200]: GET /static/img/m6.jpg
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60800 Closing
+[Mon Mar 17 14:35:01 2025] 127.0.0.1:60799 Closing
+[Mon Mar 17 14:35:03 2025] 127.0.0.1:60803 Accepted
+[Mon Mar 17 14:35:03 2025] 127.0.0.1:60803 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:35:03 2025] 127.0.0.1:60803 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60855 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60856 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60855 [200]: GET /
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60855 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60856 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60856 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60858 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60859 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60860 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60861 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60862 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60858 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60859 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60860 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60861 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60862 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60858 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60859 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60860 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60861 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60862 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60863 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60863 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60863 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60864 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60864 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60864 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60865 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60866 Accepted
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60866 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60866 Closing
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60865 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:35:55 2025] 127.0.0.1:60865 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60867 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60867 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60867 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60868 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60868 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60869 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60869 [200]: GET /static/img/m2.jpg
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60869 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60868 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60870 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60870 [200]: GET /static/img/m3.jpg
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60870 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60871 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60871 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60871 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60872 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60873 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60874 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60872 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60873 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60874 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60875 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60872 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60873 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60874 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60875 [200]: GET /static/img/m4.jpg
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60875 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60876 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60876 [200]: GET /static/img/m5.jpg
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60877 Accepted
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60877 [200]: GET /static/img/m6.jpg
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60877 Closing
+[Mon Mar 17 14:35:56 2025] 127.0.0.1:60876 Closing
+[Mon Mar 17 14:35:59 2025] 127.0.0.1:60879 Accepted
+[Mon Mar 17 14:35:59 2025] 127.0.0.1:60879 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:35:59 2025] 127.0.0.1:60879 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60904 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60905 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60904 [200]: GET /
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60904 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60905 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60907 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60907 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60905 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60907 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60908 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60908 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60909 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60908 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60910 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60911 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60909 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60910 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60911 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60909 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60910 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60911 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60912 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60913 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60912 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60913 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60912 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60913 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60914 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60914 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60914 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60915 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60915 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60915 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60916 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60916 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60916 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60917 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60918 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60917 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60918 [200]: GET /static/img/m2.jpg
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60918 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60917 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60919 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60919 [200]: GET /static/img/m3.jpg
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60920 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60921 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60922 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60923 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60920 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60921 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60922 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60923 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60920 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60921 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60922 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60923 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60919 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60924 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60925 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60926 Accepted
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60925 [200]: GET /static/img/m5.jpg
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60924 [200]: GET /static/img/m6.jpg
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60926 [200]: GET /static/img/m4.jpg
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60926 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60924 Closing
+[Mon Mar 17 14:36:17 2025] 127.0.0.1:60925 Closing
+[Mon Mar 17 14:36:20 2025] 127.0.0.1:60928 Accepted
+[Mon Mar 17 14:36:20 2025] 127.0.0.1:60928 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:36:20 2025] 127.0.0.1:60928 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61018 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61019 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61018 [200]: GET /
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61018 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61019 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61019 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61020 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61021 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61022 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61023 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61024 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61020 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61021 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61022 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61023 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61024 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61020 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61021 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61022 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61023 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61024 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61025 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61025 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61025 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61026 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61026 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61026 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61027 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61027 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61027 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61028 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61028 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61028 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61029 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61029 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61029 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61030 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61030 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61031 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61031 [200]: GET /static/img/m2.jpg
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61030 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61031 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61033 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61034 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61035 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61036 Accepted
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61033 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61034 [200]: GET /static/img/m3.jpg
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61035 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61036 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61033 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61035 Closing
+[Mon Mar 17 14:37:36 2025] 127.0.0.1:61036 Closing
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61037 Accepted
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61034 Closing
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61037 [200]: GET /static/img/m6.jpg
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61038 Accepted
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61038 [200]: GET /static/img/m4.jpg
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61039 Accepted
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61039 [200]: GET /static/img/m5.jpg
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61038 Closing
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61037 Closing
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61040 Accepted
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61040 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61040 Closing
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61039 Closing
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61041 Accepted
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61041 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:37:37 2025] 127.0.0.1:61041 Closing
+[Mon Mar 17 14:37:51 2025] 127.0.0.1:61049 Accepted
+[Mon Mar 17 14:39:14 2025] 127.0.0.1:61049 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Mar 17 14:39:14 2025] 127.0.0.1:61049 Closing
+[Mon Mar 17 14:39:30 2025] 127.0.0.1:61166 Accepted
+[Mon Mar 17 14:39:30 2025] 127.0.0.1:61167 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61167 [200]: GET /
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61167 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61166 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61166 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61168 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61168 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61169 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61168 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61169 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61169 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61170 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61170 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61170 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61171 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61171 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61171 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61172 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61172 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61172 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61173 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61174 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61173 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61174 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61173 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61174 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61175 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61176 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61175 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61176 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61175 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61176 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61177 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61177 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61177 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61178 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61178 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61179 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61179 [200]: GET /static/img/m2.jpg
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61179 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61178 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61180 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61180 [200]: GET /static/img/m3.jpg
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61181 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61181 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61181 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61182 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61182 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61182 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61183 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61183 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61183 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61180 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61184 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61184 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61184 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61185 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61186 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61185 [200]: GET /static/img/m4.jpg
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61186 [200]: GET /static/img/m5.jpg
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61185 Closing
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61187 Accepted
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61187 [200]: GET /static/img/m6.jpg
+[Mon Mar 17 14:39:31 2025] 127.0.0.1:61187 Closing
+[Mon Mar 17 14:39:32 2025] 127.0.0.1:61186 Closing
+[Mon Mar 17 14:39:35 2025] 127.0.0.1:61192 Accepted
+[Mon Mar 17 14:39:35 2025] 127.0.0.1:61192 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:39:35 2025] 127.0.0.1:61192 Closing
+[Mon Mar 17 14:41:00 2025] 127.0.0.1:61274 Accepted
+[Mon Mar 17 14:41:00 2025] 127.0.0.1:61275 Accepted
+[Mon Mar 17 14:41:00 2025] 127.0.0.1:61274 [200]: GET /
+[Mon Mar 17 14:41:00 2025] 127.0.0.1:61274 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61277 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61275 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61278 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61279 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61275 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61280 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61281 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61281 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61280 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61281 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61277 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61278 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61279 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61280 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61277 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61278 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61279 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61282 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61283 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61283 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61283 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61282 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61282 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61284 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61284 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61284 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61285 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61286 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61285 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61286 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61285 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61286 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61287 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61288 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61288 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61287 [200]: GET /static/img/m2.jpg
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61287 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61288 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61289 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61290 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61291 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61292 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61289 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61290 [200]: GET /static/img/m3.jpg
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61291 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61292 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61289 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61291 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61292 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61290 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61293 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61293 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61293 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61294 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61295 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61294 [200]: GET /static/img/m4.jpg
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61295 [200]: GET /static/img/m5.jpg
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61294 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61296 Accepted
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61296 [200]: GET /static/img/m6.jpg
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61296 Closing
+[Mon Mar 17 14:41:01 2025] 127.0.0.1:61295 Closing
+[Mon Mar 17 14:41:03 2025] 127.0.0.1:61298 Accepted
+[Mon Mar 17 14:41:03 2025] 127.0.0.1:61298 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:41:03 2025] 127.0.0.1:61298 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61356 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61357 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61357 [200]: GET /
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61357 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61358 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61356 [200]: GET /static/css/bootstrap/4.0/bootstrap.min.css
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61359 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61360 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61356 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61360 [200]: GET /static/font-awesome/css/font-awesome-min.css
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61360 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61361 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61359 [200]: GET /static/bootstrap-icons/bootstrap-icons.css
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61358 [200]: GET /static/icofont/icofont.min.css
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61361 [200]: GET /static/css/default/default.main.style.css
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61362 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61362 [200]: GET /static/js/jquery/jquery.min.js
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61359 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61358 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61361 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61362 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61363 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61364 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61363 [200]: GET /static/js/jquery/axios.min.js
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61364 [200]: GET /static/js/chart/default.chart.min.js
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61363 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61364 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61365 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61366 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61365 [200]: GET /static/img/p1.jpg
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61366 [200]: GET /static/img/p2.jpg
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61365 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61366 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61367 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61367 [200]: GET /static/css/default/default.epaphrodites.style.css
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61367 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61368 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61368 [200]: GET /static/img/m1.jpg
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61369 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61369 [200]: GET /static/img/m2.jpg
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61369 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61368 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61370 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61370 [200]: GET /static/img/m3.jpg
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61371 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61371 [200]: GET /static/js/jquery/jquery.default.main.js
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61372 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61372 [200]: GET /static/js/jquery/jquery.js
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61373 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61371 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61373 [200]: GET /static/js/bootstrap/4.0/bootstrap.bundle.min.js
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61372 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61373 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61370 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61374 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61374 [200]: GET /static/js/bootstrap/4.0/bootstrap.min.js
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61374 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61375 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61375 [200]: GET /static/img/m4.jpg
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61375 Closing
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61376 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61376 [200]: GET /static/img/m5.jpg
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61377 Accepted
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61377 [200]: GET /static/img/m6.jpg
+[Mon Mar 17 14:41:51 2025] 127.0.0.1:61377 Closing
+[Mon Mar 17 14:41:52 2025] 127.0.0.1:61376 Closing
+[Mon Mar 17 14:41:54 2025] 127.0.0.1:61381 Accepted
+[Mon Mar 17 14:41:54 2025] 127.0.0.1:61381 [200]: GET /static/img/logo_o.png
+[Mon Mar 17 14:41:54 2025] 127.0.0.1:61381 Closing

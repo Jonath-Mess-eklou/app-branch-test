@@ -1,17 +1,208 @@
 {% extends layouts %} 
 {% block content %}
-    <div class="container-fluid">
-        <div class="row">
-            <div class="logo" align="center"><img src="{{ __img('logo.png') }}" class="img-fluid"></div>
-            <div class="col-md-12 titlesite">{{ __msg('site-title') }}</div>
-            <div class="col-md-12 epaphrodite" align="center">
-                <h1>Welcome</h1>
-                <a href="{{ __path('login') }}"> AUTHENTIFICATION <i class="icofont-long-arrow-right"></i></a>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
+{#************************************* section1*********************** #}
+<div class="container py-5">
+    <div class="row">
+        <!-- Tasty Thursdays Banner -->
+        <div class="col-md-6">
+            <div class="promo-banner">
+                <div class="food-image-container">
+                    <img src="{{ __img('p1.jpg') }}" alt="Burger" class="food-image">
+                </div>
+                <div class="promo-content">
+                    <p class="promo-title">Jeudis savoureux</p>
+                    <h2 class="discount">20% <span style="font-size: 28px;">Off</span></h2>
+                    <a href="#">
+                        <button class="order-button">
+                            Commandez maintenant
+                            <span class="cart-icon">🛒</span>
+                        </button>
+                    </a>
+                </div>
             </div>
-            <div class="container pt-20" align="center">
-                {{ __QRCodes('https://epaphrodite.org') }}
-                <p>Authentic</p>
+        </div>
+        
+        <!-- Pizza Days Banner -->
+        <div class="col-md-6">
+            <div class="promo-banner">
+                <div class="food-image-container">
+                    <img src="{{ __img('p2.jpg') }}" alt="Pizza" class="food-image">
+                </div>
+                <div class="promo-content">
+                    <p class="promo-title">Journées pizza</p>
+                    <h2 class="discount">15% <span style="font-size: 28px;">Off</span></h2>
+                    <a href="#">
+                        <button class="order-button">
+                            Commandez maintenant
+                            <span class="cart-icon">🛒</span>
+                        </button>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
+</div>
+{#*************************************fin section1*********************** #}
+
+{# *********************************section2********************************* #}
+
+<div class="container py-4">
+    <h2 class="menu-title">Our Menu</h2>
+    
+    <!-- Navigation Pills -->
+    <ul class="nav nav-pills" id="menuTabs" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="all-tab" data-bs-toggle="pill" data-bs-target="#all" type="button" role="tab">All</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="burger-tab" data-bs-toggle="pill" data-bs-target="#burger" type="button" role="tab">Burger</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="pizza-tab" data-bs-toggle="pill" data-bs-target="#pizza" type="button" role="tab">Pizza</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="pasta-tab" data-bs-toggle="pill" data-bs-target="#pasta" type="button" role="tab">Pasta</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" id="fries-tab" data-bs-toggle="pill" data-bs-target="#fries" type="button" role="tab">Fries</button>
+        </li>
+    </ul>
+    <br><br>
+    
+    <!-- Tab Content -->
+    <div class="tab-content" id="menuTabsContent">
+        <div class="tab-pane fade show active" id="all" role="tabpanel">
+            <div class="row">
+                <!-- Pizza Card 1 -->
+                <div class="col-md-4">
+                    <div class="food-card">
+                        <div style="position: relative;">
+                            <img src="{{ __img('m1.jpg') }}" alt="Pizza" class="food-image">
+                        </div>
+                        <div class="food-info">
+                            <h5 class="food-title">Delicious Pizza</h5>
+                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
+                            <div class="price-row">
+                                <div class="price">$20</div>
+                                <a href="#"><button class="add-button">🛒</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Burger Card -->
+                <div class="col-md-4">
+                    <div class="food-card">
+                        <div style="position: relative;">
+                            <img src="{{ __img('m2.jpg') }}" alt="Burger" class="food-image">
+                        </div>
+                        <div class="food-info">
+                            <h5 class="food-title">Delicious Burger</h5>
+                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
+                            <div class="price-row">
+                                <div class="price">$15</div>
+                                <a href="#"><button class="add-button">🛒</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Pizza Card 2 -->
+                <div class="col-md-4">
+                    <div class="food-card">
+                        <div style="position: relative;">
+                            <img src="{{ __img('m3.jpg') }}" alt="Pizza" class="food-image">
+                        </div>
+                        <div class="food-info">
+                            <h5 class="food-title">Delicious Pizza</h5>
+                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
+                            <div class="price-row">
+                                <div class="price">$17</div>
+                               <a href="#"> <button class="add-button">🛒</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Pasta Card -->
+                <div class="col-md-4">
+                    <div class="food-card">
+                        <div style="position: relative;">
+                            <img src="{{ __img('m4.jpg') }}" alt="Pasta" class="food-image">
+                        </div>
+                        <div class="food-info">
+                            <h5 class="food-title">Delicious Pasta</h5>
+                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
+                            <div class="price-row">
+                                <div class="price">$18</div>
+                                <a href="#"> <button class="add-button">🛒</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Fries Card -->
+                <div class="col-md-4">
+                    <div class="food-card">
+                        <div style="position: relative;">
+                            <img src="{{ __img('m5.jpg') }}" alt="Fries" class="food-image">
+                            <div class="favorite-icon">
+                                <i class="far fa-heart"></i>
+                            </div>
+                        </div>
+                        <div class="food-info">
+                            <h5 class="food-title">French Fries</h5>
+                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
+                            <div class="price-row">
+                                <div class="price">$8</div>
+                                <a href="#"><button class="add-button">🛒</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Pizza Card 3 -->
+                <div class="col-md-4">
+                    <div class="food-card">
+                        <div style="position: relative;">
+                            <img src="{{ __img('m6.jpg') }}" alt="Pizza" class="food-image">
+                        </div>
+                        <div class="food-info">
+                            <h5 class="food-title">Delicious Pizza</h5>
+                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
+                            <div class="price-row">
+                                <div class="price">$19</div>
+                                <a href="#"><button class="add-button">🛒</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Autres onglets (pour fonctionnalité complète) -->
+        <div class="tab-pane fade" id="burger" role="tabpanel">
+            <!-- Contenu de l'onglet Burger -->
+            <!-- Vous pouvez dupliquer les cartes pertinentes ici -->
+        </div>
+        <div class="tab-pane fade" id="pizza" role="tabpanel">
+            <!-- Contenu de l'onglet Pizza -->
+        </div>
+        <div class="tab-pane fade" id="pasta" role="tabpanel">
+            <!-- Contenu de l'onglet Pasta -->
+        </div>
+        <div class="tab-pane fade" id="fries" role="tabpanel">
+            <!-- Contenu de l'onglet Fries -->
+        </div>
+    </div>
+</div>
+{# *********************************fin section2********************************* #}
+
+     <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
 {% endblock %}
