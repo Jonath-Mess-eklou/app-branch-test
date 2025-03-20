@@ -194,7 +194,9 @@ body {
 .cart-icon {
     margin-left: 5px;
 }
+/* ***********************fin section1********************************* */
 
+ 
 /* *********************Section2*********************************** */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -226,11 +228,30 @@ body {
     color: white;
 }
 
+/* Animation d'apparition des cartes */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 .food-card {
     border-radius: 15px;
     overflow: hidden;
     margin-bottom: 20px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    animation: fadeInUp 0.8s ease-in-out;
+}
+
+/* Effet de zoom sur l'image au survol */
+.food-card:hover .food-image {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
 }
 
 .food-image {
@@ -264,7 +285,7 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-.price-row a{
+.price-row a {
     text-decoration: none;
 }
 
@@ -299,4 +320,420 @@ body {
     justify-content: center;
     cursor: pointer;
 }
+
+
+
+.view-more-btn {
+    background-color: #ffc107;
+    color: #212529;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 25px;
+    font-weight: 600;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    transition: transform 0.2s ease-in-out;
+}
+
+/* Effet de rebond sur le bouton "Voir plus" */
+.view-more-btn:hover {
+    transform: scale(1.1);
+    background-color: #e0aa00;
+}
+
+
+
+/*  section carrousel*/
+  
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    color: #333;
+    animation: slideInDown 1s ease-out;
+  }
+  
+  /* Animations pour les cartes produits */
+  @keyframes fadeInScale {
+    0% {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+  }
+  
+  @keyframes floatCard {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+  }
+  
+  @keyframes shineEffect {
+    0% {
+        background-position: -100% 0;
+    }
+    100% {
+        background-position: 100% 0;
+    }
+  }
+  
+  @keyframes pulseDiscount {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+  }
+  
+  .product-card {
+    position: relative;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+    max-width: 320px;
+    margin: auto;
+    animation: fadeInScale 0.6s ease-out;
+    transition: all 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .product-card img {
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    transition: transform 0.5s ease;
+  }
+  
+  .product-card:hover img {
+    transform: scale(1.1);
+  }
+  
+  .product-card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(255, 255, 255, 0.2),
+        transparent
+    );
+    transition: 0.5s;
+  }
+  
+  .product-card:hover::after {
+    animation: shineEffect 0.8s;
+  }
+  
+  .discount-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: red;
+    color: white;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    animation: pulseDiscount 2s infinite;
+  }
+  
+  /* Animation du texte dans les cartes */
+  .product-card .p-3 {
+    padding: 15px;
+    transform: translateY(0);
+    transition: transform 0.3s ease;
+  }
+  
+  .product-card:hover .p-3 {
+    transform: translateY(-5px);
+  }
+  
+  /* Animations du carrousel */
+  .carousel {
+    color: #000;
+    opacity: 0;
+    animation: fadeIn 1s ease-out forwards;
+  }
+  
+  @keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 8%;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  
+  .carousel:hover .carousel-control-prev,
+  .carousel:hover .carousel-control-next {
+    opacity: 1;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+  }
+  
+  .carousel-control-prev:hover .carousel-control-prev-icon,
+  .carousel-control-next:hover .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.8);
+    transform: scale(1.1);
+  }
+  
+  /* Animation pour les slides du carrousel */
+  .carousel-item {
+    transition: transform 0.6s ease-in-out;
+  }
+  
+  /* Animation des indicateurs du carrousel */
+  .carousel-indicators button {
+    transition: all 0.3s ease;
+  }
+  
+  .carousel-indicators button:hover {
+    transform: scale(1.2);
+  }
 /* ***********************************fin section2*********************************************** */
+
+/* *********************************** section3*********************************************** */
+.burger-section {
+    background-color: #1a2526; /* Fond sombre */
+    padding: 50px 0;
+    color: white;
+    
+}
+
+.burger-img {
+    max-width: 80%; /* Ajuster la taille de l'image */
+}
+
+.text-section h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.text-section p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    color: #212529;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 25px;
+    font-weight: 600;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+.btn-warning:hover {
+    background-color: #e0aa00;
+    transform: scale(1.1);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .burger-img {
+        max-width: 60%;
+        margin-bottom: 30px;
+    }
+
+    .text-section h2 {
+        font-size: 2rem;
+    }
+
+    .text-section p {
+        font-size: 0.9rem;
+    }
+}
+/* *********************************** fin section3*********************************************** */
+/* *********************************** section4*********************************************** */
+.reservation-section {
+    padding: 50px 0;
+    background-color: #f8f9fa;  
+}
+
+.reservation-section h2 {
+    font-family: 'Dancing Script', cursive; 
+    font-size: 3.5rem;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.form-control, .form-select {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
+
+.form-control::placeholder {
+    color: #6c757d;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    color: #212529;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 25px;
+    font-weight: 600;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 400px;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+.btn-warning:hover {
+    background-color: #d4ac0d; 
+    transform: scale(1.1);
+}
+
+.map-container {
+    height: 300px; 
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+
+@media (max-width: 768px) {
+    .reservation-section h2 {
+        font-size: 2rem;
+    }
+
+    .map-container {
+        height: 200px;
+        margin-top: 20px;
+    }
+}
+/* *********************************** fin section4*********************************************** */
+/* *********************************** section5*********************************************** */
+.testimonials-section {
+    padding: 50px 0;
+    background-color: #f8f9fa; /* Fond clair */
+    text-align: center;
+}
+
+.testimonials-section h2 {
+    font-family: 'Dancing Script', cursive; /* Police manuscrite pour le titre */
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    color: #333;
+}
+
+.carousel-item {
+    padding: 20px;
+}
+
+.testimonial-card {
+    background-color: #1a2526; /* Fond sombre pour les cartes */
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-card p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.testimonial-card h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.profile-pic {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0 auto 15px;
+    border: 3px solid #f1c40f; /* Bordure jaune */
+}
+
+/* Style des indicateurs du carrousel */
+.carousel-indicators [data-bs-target] {
+    background-color: #f1c40f; /* Points jaunes */
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin: 0 5px;
+}
+
+.carousel-indicators .active {
+    background-color: #d4ac0d; /* Point actif plus foncé */
+}
+
+
+@media (max-width: 768px) {
+    .testimonials-section h2 {
+        font-size: 2rem;
+    }
+
+    .testimonial-card {
+        margin: 0 10px;
+    }
+
+    .testimonial-card p {
+        font-size: 0.9rem;
+    }
+
+    .profile-pic {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+
+
