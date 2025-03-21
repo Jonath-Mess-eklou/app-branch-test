@@ -51,7 +51,7 @@
 {# *********************************section2********************************* #}
 
 <div class="container py-4">
-    <h2 class="menu-title">Our Menu</h2>
+    <h2 class="menu-title">Notre Menu</h2>
     
     <!-- Navigation Pills -->
     <ul class="nav nav-pills" id="menuTabs" role="tablist">
@@ -76,133 +76,820 @@
     <!-- Tab Content -->
     <div class="tab-content" id="menuTabsContent">
         <div class="tab-pane fade show active" id="all" role="tabpanel">
+            
+            <section>
+                <div class="container py-5">
+            
+                    <div id="productCarousel" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <!-- Produit 1 -->
+          
+          
+                              <div class="carousel-item active">
+                                  <div class="product-card text-center">
+                                      <a href="#"> <img src="{{ __img('m1.jpg') }}" alt="Pizza" class="w-100 product-image"></a>
+                                      <span class="discount-badge">10% OFF</span>
+                                      <div class="p-3">
+                                          <h5>Délicieuse pizza</h5>
+                                          <p class="text-primary fw-bold">$20</p>
+                                      </div>
+                                  </div>
+                              </div>
+          
+          
+                            <!-- Produit 2 -->
+                            <div class="carousel-item">
+                                <div class="product-card text-center">
+                                    <a href="#"><img src="{{ __img('m2.jpg') }}" alt="Burger" class="w-100 product-image"></a>
+                                    <div class="p-3">
+                                        <h5>Délicieux burger </h5>
+                                        <p class="text-primary fw-bold">$15</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Produit 3 -->
+                            <div class="carousel-item">
+                                <div class="product-card text-center">
+                                    <a href="#"><img src="{{ __img('m3.jpg') }}" alt="Pizza" class="w-100 product-image"></a>
+                                    <div class="p-3">
+                                        <h5>Délicieuse Pizza</h5>
+                                        <p class="text-primary fw-bold">$17</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Produit 4 -->
+                            <div class="carousel-item">
+                              <div class="product-card text-center">
+                                  <a href="#"><img src="{{ __img('m4.jpg') }}" alt="Pasta" class="w-100 product-image"></a>
+                                  <div class="p-3">
+                                      <h5>Pâtes délicieuses</h5>
+                                      <p class="text-primary fw-bold">$18</p>
+                                  </div>
+                              </div>
+                          </div>
+                          <!-- Produit 5 -->
+                          <div class="carousel-item">
+                            <div class="product-card text-center">
+                                <a href="#"><img src="{{ __img('m5.jpg') }}" alt="Fries" class="w-100 product-image"></a>
+                                <div class="p-3">
+                                    <h5>Frites</h5>
+                                    <p class="text-primary fw-bold">$8</p>
+                                </div>
+                            </div>
+                         </div>
+                         <!-- Produit 6-->
+                         <div class="carousel-item">
+                           <div class="product-card text-center">
+                             <a href="#"> <img src="{{ __img('m6.jpg') }}" alt="Burger" class="w-100 product-image"></a>
+                              <div class="p-3">
+                                  <h5>Burger savoureux</h5>
+                                  <p class="text-primary fw-bold">$19</p>
+                              </div>
+                           </div>
+                         </div>
+                         
+                        </div>
+            
+                        <!-- Boutons de navigation -->
+                        <button class="carousel-control-prev" type="button" data-bs-target="#productCarousel" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon"></span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#productCarousel" data-bs-slide="next">
+                            <span class="carousel-control-next-icon"></span>
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+
+
+            
+            <!-- Boutton voir tout -->
+            <ul class="nav nav-pills" id="menuTabs" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="view-more-btn " id="all-tab" data-bs-toggle="pill" data-bs-target="#viewall" type="button" role="tab">Voir tout</button>
+                </li>
+                
+            </ul>
+            <br><br>
+
+        </div>
+
+        <div class="tab-pane fade" id="viewall" role="tabpanel">
+         <div class="row">
+            <!-- Pizza Card 1 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m1.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Découvrez nos délicieuses pizzas préparées avec une pâte fraîche et des ingrédients de qualité. Fromage fondant, sauce tomate savoureuse et garnitures variées pour tous les goûts. Commandez et savourez une pizza gourmande, croustillante et pleine de saveurs ! 🍕🔥.</p>
+                        <div class="price-row">
+                            <div class="price">$20</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Burger Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m2.jpg') }}" alt="Burger" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieux burger</h5>
+                        <p class="food-description">Savourez nos burgers gourmands, préparés avec des ingrédients frais et de qualité. Un pain moelleux, un steak juteux, du fromage fondant et des garnitures savoureuses pour une explosion de saveurs à chaque bouchée. Commandez et régalez-vous ! 🍔🔥</p>
+                        <div class="price-row">
+                            <div class="price">$15</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Pizza Card 2 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m3.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Dégustez nos pizzas artisanales, préparées avec une pâte croustillante et une garniture généreuse. Entre saveurs classiques et créations originales, chaque bouchée est un voyage gourmand. Faites-vous plaisir et commandez la vôtre dès maintenant ! 🍕🔥.</p>
+                        <div class="price-row">
+                            <div class="price">$17</div>
+                           <a href="#"> <button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Pasta Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m4.jpg') }}" alt="Pasta" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Pâtes délicieuses</h5>
+                        <p class="food-description">Découvrez nos nouilles savoureuses, préparées avec des ingrédients frais et des épices parfumées. Que vous les aimiez sautées au wok, en sauce ou accompagnées de légumes croquants et de viandes tendres, elles sauront ravir vos papilles. Commandez et profitez d’un voyage culinaire authentique ! 🍜🔥</p>
+                        <div class="price-row">
+                            <div class="price">$18</div>
+                            <a href="#"> <button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Fries Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m5.jpg') }}" alt="Fries" class="food-image">
+                        <div class="favorite-icon">
+                            <i class="far fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Frites</h5>
+                        <p class="food-description">Craquez pour nos frites croustillantes et dorées à la perfection ! Préparées à partir de pommes de terre sélectionnées avec soin, elles sont savoureuses, légères et irrésistibles. Accompagnez-les de votre sauce préférée et régalez-vous ! 🍟🔥</p>
+                        <div class="price-row">
+                            <div class="price">$8</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Pizza Card 3 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m6.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Succombez à nos pizzas généreusement garnies, alliant une pâte dorée et croustillante à des ingrédients frais et savoureux. Fromage fondant, sauce onctueuse et toppings gourmands pour une expérience unique à chaque bouchée. Commandez votre pizza préférée dès maintenant ! 🍕🔥</p>
+                        <div class="price-row">
+                            <div class="price">$19</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tasty Burger -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m7.png') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Burger savoureux</h5>
+                        <p class="food-description">Découvrez nos burgers savoureux, composés d’un pain moelleux, d’un steak juteux et d’ingrédients frais pour un goût irrésistible. Agrémentés de fromage fondant, de sauces gourmandes et de toppings variés, ils sont parfaits pour un pur moment de plaisir. Commandez le vôtre dès maintenant ! 🍔🔥</p>
+                        <div class="price-row">
+                            <div class="price">$12</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tasty Burger2 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m8.png') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Burger savoureux</h5>
+                        <p class="food-description">Laissez-vous tenter par nos burgers généreux, alliant un pain brioché moelleux, une viande savoureuse et des ingrédients frais. Avec du fromage fondant, une sauce onctueuse et des garnitures gourmandes, chaque bouchée est un régal. Commandez et savourez l’excellence ! 🍔🔥</p>
+                        <div class="price-row">
+                            <div class="price">$14</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Delicious Pasta -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m9.png') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Savourez notre Delicious Pasta, préparée avec des pâtes fraîches et des ingrédients de qualité. Enrobées d’une sauce onctueuse et agrémentées de fromages fondants, d’herbes aromatiques et de garnitures gourmandes, elles offrent une explosion de saveurs à chaque bouchée. Commandez et laissez-vous tenter ! 🍝🔥</p>
+                        <div class="price-row">
+                            <div class="price">$10</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Pizza Card 4 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m10.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Savourez nos pizzas artisanales, préparées avec une pâte fraîche et des ingrédients soigneusement sélectionnés. Entre sauce savoureuse, fromage fondant et garnitures généreuses, chaque bouchée est un vrai régal. Commandez en quelques clics et profitez d’un moment gourmand à domicile ! 🍕🔥</p>
+                        <div class="price-row">
+                            <div class="price">$20</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tasty Burger3 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m11.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Burger savoureux</h5>
+                        <p class="food-description">Découvrez nos burgers gourmands, préparés avec un pain moelleux, une viande savoureuse et des ingrédients frais. Accompagnés de fromage fondant, de sauces onctueuses et de garnitures généreuses, ils sont parfaits pour un plaisir authentique. Commandez dès maintenant et régalez-vous ! 🍔🔥</p>
+                        <div class="price-row">
+                            <div class="price">$14</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+             <!-- Delicious Pasta -->
+             <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m12.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Pâtes délicieuses</h5>
+                        <p class="food-description">Dégustez nos nouilles savoureuses, préparées avec des ingrédients frais et des épices parfumées. Qu’elles soient sautées au wok, en sauce ou accompagnées de légumes croquants et de viandes tendres, elles offrent une explosion de saveurs à chaque bouchée. Commandez et faites voyager vos papilles ! 🍜🔥</p>
+                        <div class="price-row">
+                            <div class="price">$11</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+             <!-- Delicious Pasta -->
+             <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m13.jpg') }}" alt="Pasta" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Pâtes délicieuses</h5>
+                        <p class="food-description">Savourez nos nouilles gourmandes, préparées avec des ingrédients frais et une touche d’authenticité. Qu'elles soient sautées, en sauce ou agrémentées de viandes et de légumes croquants, elles offrent une expérience culinaire unique. Commandez et régalez-vous ! 🍜🔥</p>
+                        <div class="price-row">
+                            <div class="price">$12</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Fries Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m14.jpg') }}" alt="Fries" class="food-image">
+                        <div class="favorite-icon">
+                            <i class="far fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Frites</h5>
+                        <p class="food-description">Craquez pour nos frites dorées et croustillantes, préparées à partir de pommes de terre de qualité. Savoureuses et légères, elles sont l’accompagnement parfait pour tous vos repas. À déguster seules ou avec votre sauce préférée ! 🍟🔥</p>
+                        <div class="price-row">
+                            <div class="price">$9</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Fries Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m15.webp') }}" alt="Fries" class="food-image">
+                        <div class="favorite-icon">
+                            <i class="far fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Frites</h5>
+                        <p class="food-description">Dégustez nos frites irrésistiblement croustillantes à l'extérieur et fondantes à l'intérieur. Préparées avec des pommes de terre sélectionnées et dorées à la perfection, elles accompagnent idéalement tous vos repas. Un pur plaisir à savourer à chaque bouchée ! 🍟🔥</p>
+                        <div class="price-row">
+                            <div class="price">$13</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Fries Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m16.jpg') }}" alt="Fries" class="food-image">
+                        <div class="favorite-icon">
+                            <i class="far fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Frites</h5>
+                        <p class="food-description">Savourez nos frites croustillantes et dorées à souhait, préparées avec soin pour un goût authentique et une texture parfaite. Idéales en accompagnement ou à grignoter avec une sauce gourmande, elles sont tout simplement irrésistibles ! 🍟🔥</p>
+                        <div class="price-row">
+                            <div class="price">$10</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>   
+            
+        </div>
+        
+        <!-- Autres onglets (tout les bouttons) -->
+        <div class="tab-pane fade" id="burger" role="tabpanel">
+         <div class="row">
+            <!-- Contenu de l'onglet Burger -->
+            <!-- Burger Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m2.jpg') }}" alt="Burger" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieux burger</h5>
+                        <p class="food-description">Savourez nos burgers gourmands, préparés avec des ingrédients frais et de qualité. Un pain moelleux, un steak juteux, du fromage fondant et des garnitures savoureuses pour une explosion de saveurs à chaque bouchée. Commandez et régalez-vous ! 🍔🔥</p>
+                        <div class="price-row">
+                            <div class="price">$15</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Tasty Burger -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m7.png') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Burger savoureux</h5>
+                        <p class="food-description">Découvrez nos burgers savoureux, composés d’un pain moelleux, d’un steak juteux et d’ingrédients frais pour un goût irrésistible. Agrémentés de fromage fondant, de sauces gourmandes et de toppings variés, ils sont parfaits pour un pur moment de plaisir. Commandez le vôtre dès maintenant ! 🍔🔥</p>
+                        <div class="price-row">
+                            <div class="price">$12</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tasty Burger2 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m8.png') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Burger savoureux</h5>
+                        <p class="food-description">Laissez-vous tenter par nos burgers généreux, alliant un pain brioché moelleux, une viande savoureuse et des ingrédients frais. Avec du fromage fondant, une sauce onctueuse et des garnitures gourmandes, chaque bouchée est un régal. Commandez et savourez l’excellence ! 🍔🔥</p>
+                        <div class="price-row">
+                            <div class="price">$14</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Tasty Burger3 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m11.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Burger savoureux</h5>
+                        <p class="food-description">Découvrez nos burgers gourmands, préparés avec un pain moelleux, une viande savoureuse et des ingrédients frais. Accompagnés de fromage fondant, de sauces onctueuses et de garnitures généreuses, ils sont parfaits pour un plaisir authentique. Commandez dès maintenant et régalez-vous ! 🍔🔥</p>
+                        <div class="price-row">
+                            <div class="price">$14</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+          
+         </div>
+         
+        </div>
+        <div class="tab-pane fade" id="pizza" role="tabpanel">
+            <!-- Contenu de l'onglet Pizza -->
             <div class="row">
                 <!-- Pizza Card 1 -->
-                <div class="col-md-4">
-                    <div class="food-card">
-                        <div style="position: relative;">
-                            <img src="{{ __img('m1.jpg') }}" alt="Pizza" class="food-image">
-                        </div>
-                        <div class="food-info">
-                            <h5 class="food-title">Delicious Pizza</h5>
-                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
-                            <div class="price-row">
-                                <div class="price">$20</div>
-                                <a href="#"><button class="add-button">🛒</button></a>
-                            </div>
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m1.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Découvrez nos délicieuses pizzas préparées avec une pâte fraîche et des ingrédients de qualité. Fromage fondant, sauce tomate savoureuse et garnitures variées pour tous les goûts. Commandez et savourez une pizza gourmande, croustillante et pleine de saveurs ! 🍕🔥.</p>
+                        <div class="price-row">
+                            <div class="price">$20</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
                         </div>
                     </div>
                 </div>
-                
-                <!-- Burger Card -->
-                <div class="col-md-4">
-                    <div class="food-card">
-                        <div style="position: relative;">
-                            <img src="{{ __img('m2.jpg') }}" alt="Burger" class="food-image">
-                        </div>
-                        <div class="food-info">
-                            <h5 class="food-title">Delicious Burger</h5>
-                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
-                            <div class="price-row">
-                                <div class="price">$15</div>
-                                <a href="#"><button class="add-button">🛒</button></a>
-                            </div>
+            </div>
+            <!-- Pizza Card 2 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m3.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Dégustez nos pizzas artisanales, préparées avec une pâte croustillante et une garniture généreuse. Entre saveurs classiques et créations originales, chaque bouchée est un voyage gourmand. Faites-vous plaisir et commandez la vôtre dès maintenant ! 🍕🔥.</p>
+                        <div class="price-row">
+                            <div class="price">$17</div>
+                           <a href="#"> <button class="add-button">🛒</button></a>
                         </div>
                     </div>
                 </div>
-                
-                <!-- Pizza Card 2 -->
-                <div class="col-md-4">
-                    <div class="food-card">
-                        <div style="position: relative;">
-                            <img src="{{ __img('m3.jpg') }}" alt="Pizza" class="food-image">
-                        </div>
-                        <div class="food-info">
-                            <h5 class="food-title">Delicious Pizza</h5>
-                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
-                            <div class="price-row">
-                                <div class="price">$17</div>
-                               <a href="#"> <button class="add-button">🛒</button></a>
-                            </div>
+            </div>
+            <!-- Pizza Card 3 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m6.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Succombez à nos pizzas généreusement garnies, alliant une pâte dorée et croustillante à des ingrédients frais et savoureux. Fromage fondant, sauce onctueuse et toppings gourmands pour une expérience unique à chaque bouchée. Commandez votre pizza préférée dès maintenant ! 🍕🔥</p>
+                        <div class="price-row">
+                            <div class="price">$19</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
                         </div>
                     </div>
                 </div>
-                
-                <!-- Pasta Card -->
-                <div class="col-md-4">
-                    <div class="food-card">
-                        <div style="position: relative;">
-                            <img src="{{ __img('m4.jpg') }}" alt="Pasta" class="food-image">
-                        </div>
-                        <div class="food-info">
-                            <h5 class="food-title">Delicious Pasta</h5>
-                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
-                            <div class="price-row">
-                                <div class="price">$18</div>
-                                <a href="#"> <button class="add-button">🛒</button></a>
-                            </div>
+            </div>
+            <!-- Pizza Card 4 -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m10.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Délicieuse pizza</h5>
+                        <p class="food-description">Savourez nos pizzas artisanales, préparées avec une pâte fraîche et des ingrédients soigneusement sélectionnés. Entre sauce savoureuse, fromage fondant et garnitures généreuses, chaque bouchée est un vrai régal. Commandez en quelques clics et profitez d’un moment gourmand à domicile ! 🍕🔥</p>
+                        <div class="price-row">
+                            <div class="price">$20</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
                         </div>
                     </div>
                 </div>
+            </div>
+
+            
                 
+            </div>
+        </div>
+        <div class="tab-pane fade" id="pasta" role="tabpanel">
+            <!-- Contenu de l'onglet Pasta -->
+            <div class="row">
+                <!-- Delicious Pasta -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m9.png') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Pâtes délicieuses</h5>
+                        <p class="food-description">Savourez notre Delicious Pasta, préparée avec des pâtes fraîches et des ingrédients de qualité. Enrobées d’une sauce onctueuse et agrémentées de fromages fondants, d’herbes aromatiques et de garnitures gourmandes, elles offrent une explosion de saveurs à chaque bouchée. Commandez et laissez-vous tenter ! 🍝🔥</p>
+                        <div class="price-row">
+                            <div class="price">$10</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Pasta Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m4.jpg') }}" alt="Pasta" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Pâtes délicieuses</h5>
+                        <p class="food-description">Découvrez nos nouilles savoureuses, préparées avec des ingrédients frais et des épices parfumées. Que vous les aimiez sautées au wok, en sauce ou accompagnées de légumes croquants et de viandes tendres, elles sauront ravir vos papilles. Commandez et profitez d’un voyage culinaire authentique ! 🍜🔥</p>
+                        <div class="price-row">
+                            <div class="price">$18</div>
+                            <a href="#"> <button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Delicious Pasta -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m12.jpg') }}" alt="Pizza" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Pâtes délicieuses</h5>
+                        <p class="food-description">Dégustez nos nouilles savoureuses, préparées avec des ingrédients frais et des épices parfumées. Qu’elles soient sautées au wok, en sauce ou accompagnées de légumes croquants et de viandes tendres, elles offrent une explosion de saveurs à chaque bouchée. Commandez et faites voyager vos papilles ! 🍜🔥</p>
+                        <div class="price-row">
+                            <div class="price">$11</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             <!-- Delicious Pasta -->
+             <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m13.jpg') }}" alt="Pasta" class="food-image">
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Pâtes délicieuses</h5>
+                        <p class="food-description">Savourez nos nouilles gourmandes, préparées avec des ingrédients frais et une touche d’authenticité. Qu'elles soient sautées, en sauce ou agrémentées de viandes et de légumes croquants, elles offrent une expérience culinaire unique. Commandez et régalez-vous ! 🍜🔥</p>
+                        <div class="price-row">
+                            <div class="price">$12</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="fries" role="tabpanel">
+            <!-- Contenu de l'onglet Fries -->
+            <div class="row">
                 <!-- Fries Card -->
-                <div class="col-md-4">
-                    <div class="food-card">
-                        <div style="position: relative;">
-                            <img src="{{ __img('m5.jpg') }}" alt="Fries" class="food-image">
-                            <div class="favorite-icon">
-                                <i class="far fa-heart"></i>
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m5.jpg') }}" alt="Fries" class="food-image">
+                        <div class="favorite-icon">
+                            <i class="far fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Frites</h5>
+                        <p class="food-description">Craquez pour nos frites croustillantes et dorées à la perfection ! Préparées à partir de pommes de terre sélectionnées avec soin, elles sont savoureuses, légères et irrésistibles. Accompagnez-les de votre sauce préférée et régalez-vous ! 🍟🔥</p>
+                        <div class="price-row">
+                            <div class="price">$8</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Fries Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m14.jpg') }}" alt="Fries" class="food-image">
+                        <div class="favorite-icon">
+                            <i class="far fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Frites</h5>
+                        <p class="food-description">Craquez pour nos frites dorées et croustillantes, préparées à partir de pommes de terre de qualité. Savoureuses et légères, elles sont l’accompagnement parfait pour tous vos repas. À déguster seules ou avec votre sauce préférée ! 🍟🔥</p>
+                        <div class="price-row">
+                            <div class="price">$9</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Fries Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m15.webp') }}" alt="Fries" class="food-image">
+                        <div class="favorite-icon">
+                            <i class="far fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Frites</h5>
+                        <p class="food-description">Dégustez nos frites irrésistiblement croustillantes à l'extérieur et fondantes à l'intérieur. Préparées avec des pommes de terre sélectionnées et dorées à la perfection, elles accompagnent idéalement tous vos repas. Un pur plaisir à savourer à chaque bouchée ! 🍟🔥</p>
+                        <div class="price-row">
+                            <div class="price">$13</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Fries Card -->
+            <div class="col-md-4">
+                <div class="food-card">
+                    <div style="position: relative;">
+                        <img src="{{ __img('m16.jpg') }}" alt="Fries" class="food-image">
+                        <div class="favorite-icon">
+                            <i class="far fa-heart"></i>
+                        </div>
+                    </div>
+                    <div class="food-info">
+                        <h5 class="food-title">Frites</h5>
+                        <p class="food-description">Savourez nos frites croustillantes et dorées à souhait, préparées avec soin pour un goût authentique et une texture parfaite. Idéales en accompagnement ou à grignoter avec une sauce gourmande, elles sont tout simplement irrésistibles ! 🍟🔥</p>
+                        <div class="price-row">
+                            <div class="price">$10</div>
+                            <a href="#"><button class="add-button">🛒</button></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+{# *********************************fin section2********************************* #}
+
+{# ********************************* section3********************************* #}
+<section class="burger-section">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-5 text-center">
+                <img src="{{ __img('section3.png') }}" alt="Burger Illustration" class="img-fluid burger-img">
+            </div>
+           
+            <div class="col-md-6 text-section">
+                <h2>Nous sommes Bella Pizza</h2>
+                <p>
+                    Bienvenue chez Bella Pizza, votre pizzeria artisanale où la tradition italienne rencontre la gourmandise ! Nous préparons nos pizzas avec une pâte fraîche, levée lentement pour un goût authentique et une texture parfaite. Garnies d’ingrédients soigneusement sélectionnés et cuites à la perfection, nos pizzas raviront tous les amateurs de saveurs italiennes. Commandez dès maintenant et laissez-vous tenter par une expérience culinaire unique ! 🍕🔥                </p>
+                <button class=" btn-warning">Lire la suite</button>
+            </div>
+        </div>
+    </div>
+</section>
+{# *********************************fin section3********************************* #}
+
+{# *********************************section4********************************* #}
+<section class="reservation-section">
+    <div class="container">
+        <h2>Réserver une table</h2>
+        <div class="row">
+            <div class="col-md-6">
+                <form>
+                    <input type="text" class="form-control" placeholder="Votre nom">
+                    <input type="tel" class="form-control" placeholder="Numéro de téléphone">
+                    <input type="email" class="form-control" placeholder="Votre email">
+                    <select class="form-select">
+                        <option>Combien de personnes ?</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5+</option>
+                    </select>
+                    <input type="datetime-local" class="form-control" placeholder="jj/mm/aaaa">
+                    <button type="submit" class=" btn-warning">RÉSERVEZ MAINTENANT</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <div class="map-container">
+                    <!-- Intégration d'une iframe Google Maps -->
+                    <iframe
+                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.5506566767212!2d-4.025474726073277!3d5.332546094646021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ebca192a0ac1%3A0xea40d53369ec77a2!2sPlateau%20tour%20D!5e0!3m2!1sen!2sci!4v1739447891238!5m2!1sen!2sci" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></>
+                        
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{# *********************************section4********************************* #}
+<section class="testimonials-section">
+    <div class="container">
+        <h2>Ce que disent nos clients</h2>
+        <!-- Carrousel -->
+        <div id="testimonialsCarousel" class="carousel slide" data-bs-ride="carousel">
+            <!-- Indicateurs du carrousel -->
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#testimonialsCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#testimonialsCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            </div>
+            <!-- Contenu du carrousel -->
+            <div class="carousel-inner">
+                <!-- Premier témoignage -->
+                <div class="carousel-item active">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="testimonial-card">
+                                <img src="{{ __img('client1.webp') }}" alt="Profile 1" class="profile-pic">
+                                <p>
+                                    Excellente pizza ! La pâte est croustillante à l’extérieur et moelleuse à l’intérieur, avec des ingrédients frais et savoureux. Une vraie découverte, je recommande sans hésiter !
+                                </p>
+                                <h5>Moana Michell</h5>
                             </div>
                         </div>
-                        <div class="food-info">
-                            <h5 class="food-title">French Fries</h5>
-                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
-                            <div class="price-row">
-                                <div class="price">$8</div>
-                                <a href="#"><button class="add-button">🛒</button></a>
+                        <div class="col-md-6">
+                            <div class="testimonial-card">
+                                <img src="{{ __img('client2.jpg') }}" alt="Profile 2" class="profile-pic">
+                                <p>
+                                    Service rapide et accueil chaleureux ! J’ai commandé une pizza 4 fromages, et elle était tout simplement délicieuse. Je reviendrai, c’est sûr !
+                                </p>
+                                <h5>Mike Hamell</h5>
                             </div>
                         </div>
                     </div>
                 </div>
-                
-                <!-- Pizza Card 3 -->
-                <div class="col-md-4">
-                    <div class="food-card">
-                        <div style="position: relative;">
-                            <img src="{{ __img('m6.jpg') }}" alt="Pizza" class="food-image">
+                <!-- Deuxième témoignage  -->
+                <div class="carousel-item">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="testimonial-card">
+                                <img src="{{ __img('client3.jpg') }}" alt="Profile 3" class="profile-pic">
+                                <p>
+                                    Très bonnes pizzas, bien garnies et avec un goût authentique. Un petit bémol sur le délai de livraison, mais ça valait le coup d’attendre !.
+                                </p>
+                                <h5>John Doe</h5>
+                            </div>
                         </div>
-                        <div class="food-info">
-                            <h5 class="food-title">Delicious Pizza</h5>
-                            <p class="food-description">Veniam placeat sapiente officia ipsum cupiditate ipsa, voluptatem eius, magnam sunt tempora quibusdam numquam vel eaque.</p>
-                            <div class="price-row">
-                                <div class="price">$19</div>
-                                <a href="#"><button class="add-button">🛒</button></a>
+                        <div class="col-md-6">
+                            <div class="testimonial-card">
+                                <img src="{{ __img('client4.jpg') }}" alt="Profile 4" class="profile-pic">
+                                <p>
+                                    Meilleure pizzeria du coin ! Le goût est au rendez-vous, les portions sont généreuses et le rapport qualité-prix est top. Bravo à l’équipe !
+                                </p>
+                                <h5>Jane Smith</h5>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        
-        <!-- Autres onglets (pour fonctionnalité complète) -->
-        <div class="tab-pane fade" id="burger" role="tabpanel">
-            <!-- Contenu de l'onglet Burger -->
-            <!-- Vous pouvez dupliquer les cartes pertinentes ici -->
-        </div>
-        <div class="tab-pane fade" id="pizza" role="tabpanel">
-            <!-- Contenu de l'onglet Pizza -->
-        </div>
-        <div class="tab-pane fade" id="pasta" role="tabpanel">
-            <!-- Contenu de l'onglet Pasta -->
-        </div>
-        <div class="tab-pane fade" id="fries" role="tabpanel">
-            <!-- Contenu de l'onglet Fries -->
-        </div>
     </div>
-</div>
-{# *********************************fin section2********************************* #}
+</section>
 
-     <!-- Bootstrap JS Bundle with Popper -->
+
+
+
+     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
 {% endblock %}
